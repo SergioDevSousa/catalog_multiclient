@@ -1,7 +1,3 @@
-Fechou! 🚀 Aqui vai o **README.md completo**, já com os diagramas embutidos em **Mermaid** (o GitHub já renderiza direto).
-
----
-
 # 🛒 Catálogo Multi-Cliente (MVP)
 
 Este projeto é um **microserviço multi-cliente** que permite que cada usuário (cliente) crie uma conta, faça login e gerencie seu **catálogo de produtos**.
