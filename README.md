@@ -185,6 +185,3 @@ API disponível em:
 👉 `http://localhost:3000`
 
 ---
-
-🔥 Pronto! Esse README já documenta **arquitetura, fluxo, banco, API e exemplos de uso**.
-Quer que eu já monte também um **docker-compose.yml** com PostgreSQL + API pra você subir rapidão no Azure/AWS?
