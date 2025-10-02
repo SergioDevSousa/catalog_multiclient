@@ -175,8 +175,8 @@ Authorization: Bearer <token>
 ## 🔹 Como rodar o projeto
 
 ```bash
-git clone https://github.com/seu-repo/catalogo-multicliente.git
-cd catalogo-multicliente
+git clone https://github.com/seu-repo/catalog_multiclient.git
+cd catalog_multiclient
 npm install
 npm start
 ```
